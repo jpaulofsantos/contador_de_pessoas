@@ -1,1 +1,1 @@
-# contador_pessoas_flutter
+# basic counter app using Flutter
